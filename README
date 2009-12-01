@@ -1,0 +1,6 @@
+GoBr
+----------------
+
+This is a small plugin that demonstrates how a package is created and how
+it should look in the source tree. It's the most basic example of a Go
+package and could/should be used to test package managers like GoStones.
